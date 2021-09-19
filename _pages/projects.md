@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: FDI Project
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Dissertation papers into book projects.
 nav: true
-display_categories: [work, fun]
+display_categories: [work, dissertation]
 horizontal: false
 ---
 <div class="projects">
