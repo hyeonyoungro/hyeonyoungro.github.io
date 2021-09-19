@@ -6,6 +6,15 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I worked as a graduate student instructor (teaching assistant) for the following course
 
-Organize your courses by years, topics, or universities, however you like!
+POLSCI 369 International Economic Relations (Instructor: Prof. Iain Osgood)
+
+POLSCI 364 Public International Law (Instructor: Prof. Barbara Koremenos)
+
+POLSCI 340 Politics and Government in West Europe (Instructor: Prof. George Tsebelis)
+
+POLSCI 160 Intro to World Politics (Instructors: Prof. James Morrow, Prof. Barbara Koremenos)
+
+POLSCI 140 Intro to Comparative Politics (Instructor: Prof. Ronald Inglehart)
+
