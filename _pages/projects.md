@@ -1,12 +1,15 @@
 ---
 layout: page
-title: FDI Project
+title: FDI Projects
 permalink: /projects/
-description: Dissertation papers into book projects.
+description: Dissertation into a book project.
 nav: true
 display_categories: [work, dissertation]
 horizontal: false
 ---
+
+I am currently working on a book project that will include selected chapters from my dissertation.
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
