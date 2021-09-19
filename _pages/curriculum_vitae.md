@@ -2,6 +2,6 @@
 layout: page
 permalink: /curriculum_vitae/
 title: curriculum_vitae
-description: Materials for courses you taught. Replace this text with your description.
+description: Please find my latest C.V. here.
 nav: true
 ---
