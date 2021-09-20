@@ -12,9 +12,9 @@ profile:
     <p>20 Prospect Ave,</p>
     <p>Princeton, NJ 08540</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 Hello! I am a postdoctoral fellow in the Niehaus Center for Globalization and Governance at the School of Public and International Affairs, Princeton Univeristy. I received a Ph.D. in Political Science at the University of Michigan in 2021 in International Relations and Quantitative Methods.
 
