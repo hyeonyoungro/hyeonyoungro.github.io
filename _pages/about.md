@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Princeton University</a>. hr9358@princeton.edu
+description: <a href="https://www.princeton.edu/">Princeton University</a>. hr9358@princeton.edu
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 Hello! I am a postdoctoral fellow in the Niehaus Center for Globalization and Governance at the School of Public and International Affairs, Princeton Univeristy. I received a Ph.D. in Political Science at the University of Michigan in 2021 in International Relations and Quantitative Methods.
 
