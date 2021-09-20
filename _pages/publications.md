@@ -6,7 +6,7 @@ description: Works in progress (other than dissertation)
 nav: true
 ---
 
-<a href="/assets/pdf/example_pdf.pdf">Trade's Progressive Opponents with Iain Osgood </a> (R&R at ISQ) 
+<a href="/assets/pdf/TO12.pdf">Trade's Progressive Opponents with Iain Osgood </a> (R&R at ISQ) 
 
 While right-wing opposition to globalization has recently come to the fore, we describe
 the more enduring opposition to trade of the American Left. To do so, we collect original
