@@ -10,7 +10,7 @@ horizontal: false
 
 I am currently working on a book project that will include selected chapters from my dissertation.
 
-<a href="/assets/pdf/Protection-From-FDI_Ro.pdf">Protection From FDI and Economies of Scale </a>
+<a href="/assets/pdf/Protection-From-FDI_Ro.pdf">Protection From FDI and Economies of Scale </a> (Under Review)
 
 Economies of scale are a characteristic feature of modern market competition. Economies of scale that are internal to the firm lead to industrial concentration and radical changes in industries if one firm supersedes another; external economies of scale lead to geographic concentration and disruptive changes in location if one country's industrial growth surpasses that of another. I argue that these effects play a critical role in shaping attitudes toward restrictions on FDI by domestic producers. Industries with high internal economies of scale are likely to pressurize their government to impose higher restrictions on inbound FDI to avoid fierce new competition; industries with high external economies of scale are more likely to welcome FDI in order to consolidate their country as a production hub. I develop these insights in a formal model of the endogenous determination of barriers to foreign investment, and examine data on barriers to FDI across different industries in 36 OECD countries. I find evidence for both these patterns: economies of scale are a crucial industrial feature for understanding variation in barriers to FDI across both industries and countries.
 
