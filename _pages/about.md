@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: <a href="https://www.princeton.edu/">Princeton University</a>. hr9358@princeton.edu
 
