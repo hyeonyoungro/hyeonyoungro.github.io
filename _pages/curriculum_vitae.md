@@ -2,6 +2,6 @@
 layout: page
 permalink: /curriculum_vitae/
 title: CV
-description: Please find my latest C.V. [here]({{ site.url }}/assets/example_pdf.pdf).
+description: Please find my latest C.V. <a href="/assets/example_pdf.pdf">here.</href>
 nav: true
 ---
