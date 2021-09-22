@@ -6,7 +6,7 @@ description: Courses taught as a TA at the University of Michigan
 nav: true
 ---
 
-I worked as a graduate student instructor (teaching assistant) for the following course
+I worked as a graduate student instructor (teaching assistant) for the following courses:
 
 POLSCI 369 International Economic Relations (Instructor: Prof. Iain Osgood)
 
