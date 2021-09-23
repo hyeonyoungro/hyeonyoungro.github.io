@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Works in progress (other than dissertation)
+description: Work in progress (other than dissertation)
 nav: true
 ---
 
