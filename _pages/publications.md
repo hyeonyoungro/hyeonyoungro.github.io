@@ -6,21 +6,23 @@ description: Work in progress (other than dissertation)
 nav: true
 ---
 
-<a href="/assets/pdf/TO12.pdf">Trade's Progressive Opponents </a> with Iain Osgood (R&R at ISQ) 
+<a href="/assets/pdf/TO13.pdf"> Interest Groups and Progressive Opposition to Globalization </a> with Iain Osgood (R&R at ISQ) 
 
-While right-wing opposition to globalization has recently come to the fore, we describe
-the more enduring opposition to trade of the American Left. To do so, we collect original
-data on thousands of groups' participation in highly organized anti-trade coalitions.
-The composition of these groups and associated textual evidence suggest that
-their motivations are mainly progressive, focused on the environment, human rights,
-economic justice, and reducing corporate power. We also focus on progressives' labor
-union allies, showing that their anti-trade activities are motivated by both progressive
-anti-globalization and classic protectionism. Collectively, this anti-trade alliance accounts
-for a majority of trade lobbying and PAC contributions among non-producer
-groups. We conclude that progressive anti-globalism represents the most important
-interest group alliance opposition to globalization in the United States. Opposition to
-trade from the left has no match on the right, raising questions about the durability
-of popular nationalist opposition to trade.
+Populist, protectionist, and progressive opposition to free trade is renascent among
+voters and politicians, but which of these ideologies have successfully inspired interest
+group mobilization? To answer this question, we collect original data on thousands of
+groups' participation in highly organized coalitions opposed to US trade agreements.
+Examining the types of groups that compose these coalitions, variation in activation
+across issues, and coalitions' written statements suggests their motivations are mainly
+progressive, focused on the environment, human rights, economic justice, and reducing
+corporate power. We also focus on progressives' labor union allies, showing that their
+anti-trade activities are driven by both sincere progressive and classic protectionist
+motives. This progressive-labor alliance dominates public activism against US trade
+agreements, and accounts for a majority of trade lobbying and PAC contributions
+among non-business groups. We conclude that progressive anti-globalism allied to
+labor is the most organized and enduring non-business interest group opposition to
+globalization in the US. This opposition has no match on the political right, raising
+questions about the durability and impact of populist nationalist opposition to trade.
 
 Security Alliances and Cross-Border Mergers and Acquisitions with Barbara Koremenos
 
