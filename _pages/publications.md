@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Work in progress (other than dissertation)
+description: Other on-going research on trade and foreign direct investment
 nav: true
 ---
 
