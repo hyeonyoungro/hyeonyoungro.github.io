@@ -6,7 +6,7 @@ description: Other on-going research on trade and foreign direct investment
 nav: true
 ---
 
-<a href="/assets/pdf/TO13.pdf"> Free Trade's Organized Progressive Opposition </a> with Iain Osgood (R&R at ISQ) 
+<a href="/assets/pdf/TO13.pdf"> Free Trade's Organized Progressive Opposition </a> with Iain Osgood (Accepted at ISQ) 
 
 Populist, protectionist, and progressive opposition to globalization is renascent among
 voters and politicians, but which of these ideologies have successfully inspired interest
