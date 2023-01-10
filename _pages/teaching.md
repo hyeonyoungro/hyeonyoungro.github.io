@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught as a TA at the University of Michigan
+description: Courses taught
 nav: true
 ---
+As an instructor of record at Santa Clara University (please send me an email for the syllabi):
 
-I worked as a graduate student instructor (teaching assistant) for the following courses:
+POLI 25 Introduction to International Relations
+
+POLI 101 Applied Quantitative Methods
+
+
+As a graduate student instructor (teaching assistant) at the University of Michigan, Ann Arbor:
 
 POLSCI 369 International Economic Relations (Instructor: Prof. Iain Osgood)
 
