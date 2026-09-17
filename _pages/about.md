@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! I am a Quarterly Lecturer in the Department of Political Science at Santa Clara University. I received a Ph.D. in Political Science from the University of Michigan in 2021, with fields in International Relations and Quantitative Methods.
+Hello! I am a Quarterly Lecturer in the Department of Political Science at Santa Clara University. I received a Ph.D. in Political Science from the University of Michigan, Ann Arbor, in 2021, with fields in International Relations and Quantitative Methods.
 
 My research focuses on domestic firms' preferences and regulations on inbound foreign direct investment (FDI). My dissertation examines how industrial features and market entry modes of multinational corporations shape domestic producers' attitudes towards restrictions on FDI. I am also interested in the politics of cross-border mergers and acquisitions, particularly how governments utilize policy tools — including investment screening mechanisms and competition laws — to regulate foreign MNCs' behavior. More generally, I study how domestic special interest groups influence trade and FDI policymaking. My work has been published in the International Studies Quarterly.
 
