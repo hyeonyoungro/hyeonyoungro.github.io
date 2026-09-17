@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://hyeonyoungro.github.io/">Santa Clara University</a>. hro@scu.edu
+description: <a href="https://hyeonyoungro.github.io/"> Santa Clara University</a>. hro@scu.edu
 
 profile:
   align: right
